@@ -148,5 +148,14 @@ jupyter notebook Modelling.ipynb
 
 ## 👤 Author
 
-**Ahmad Nasiruddin**
+**Ahmad Nasiruddin Dzulkifli**
 Email: nasirdzul@gmail.com
+
+**Muhammad Ismail Putra Zaidi**
+Email: muhdismailputra6@gmail.com
+
+**Muhammad Izzul Hafizi Roslan**
+Email: hafizir2003@gmail.com
+
+**Imran Fareez Azmy**
+Email: iazm0290@uni.sydney.edu.au
